@@ -10,7 +10,7 @@ const pool = new Pool({
   host: 'localhost',
   database: 'mundomagico',
   password: 'ds564',
-  port: 5432, // ou 7007
+  port: 7007, // ou 7007
 });
 
 // Middleware para processar JSON
